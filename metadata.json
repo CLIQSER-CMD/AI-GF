@@ -1,0 +1,6 @@
+{
+  "name": "Maggie AI",
+  "description": "An interactive, emotionally intelligent romantic roleplay companion featuring Maggie from Mumbai, reconnecting with her childhood love Saif after six years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
